@@ -30,7 +30,7 @@ Para utilizar este projeto, siga estas instruções:
 4. Compile e execute o arquivo `Simulacao.java`.
 5. Explore a simulação interagindo com os diferentes elementos e observando seu comportamento.
 
-**O projeto foi feito e simulado no __NetBeans.__**
+**O projeto foi feito e simulado no NetBeans.**
 
 
 ## Autor
