@@ -1,7 +1,7 @@
 # Simulação de Propagação de Fake News
 
-Matéria: Orientação a Objetos
-Semestre: 3°
+- Matéria: Orientação a Objetos
+- Semestre: 3°
 
 ## Descrição do Projeto
 
