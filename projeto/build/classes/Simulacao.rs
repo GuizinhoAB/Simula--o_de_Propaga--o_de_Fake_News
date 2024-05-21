@@ -1,0 +1,10 @@
+PessoaBemInformada
+Mundo
+IAGeradoraFakeNews
+Simulacao
+ANSIColors
+IADestruidoraFakeNews
+PessoaMalInformada
+MeioComunicacaoConfiavel
+IMovable
+Pessoa
